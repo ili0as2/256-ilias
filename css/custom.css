@@ -46,8 +46,8 @@ h1, h2, h3, h4, h5, h6 {
 .article-intro:first-letter    {
     font-weight:bold;
     font-size: 2.8em;
-    float:left;
-    padding-right:10px;
+    padding-right:1px;
+	color:red;
 }
 .feature,
 .page-intro,
@@ -60,4 +60,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .center {
 	text-align: center;
+}
+
+p {
+	color:darkblue;
+}
+
+a {
+    display: block;
+    text-align: center;
 }
