@@ -70,3 +70,10 @@ a {
     display: block;
     text-align: center;
 }
+
+.slect1 {
+
+	background-image: url(bilder/hg.jpg);
+	background-repeat: space;
+
+}
